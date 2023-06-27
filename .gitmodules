@@ -1,12 +1,13 @@
 [submodule "deps/vera"]
 	path = deps/vera
-	url = https://github.com/patriciogonzalezvivo/vera.git
-	# url = git@github.com:patriciogonzalezvivo/vera.git
+    url = git@github.com:themoep/vera.git
+    #url = https://github.com/patriciogonzalezvivo/vera.git
+	#url = git@github.com:patriciogonzalezvivo/vera.git
 [submodule "deps/pybind11"]
 	path = deps/pybind11
 	url = https://github.com/pybind/pybind11.git
 	# url = git@github.com:pybind/pybind11.git
 [submodule "deps/lygia"]
-	path = deps/lygia
-	url = http://github.com/patriciogonzalezvivo/lygia.git
+    path = deps/lygia
+    url = https://github.com/patriciogonzalezvivo/lygia.git
 	#url = git@github.com:patriciogonzalezvivo/lygia.git
